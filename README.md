@@ -1,4 +1,3 @@
 # workshop
 ワークショップリポジトリ
-add
-commit
+edit
