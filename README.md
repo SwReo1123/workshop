@@ -1,4 +1,3 @@
 # workshop
-ワークショップリポジトリ
-add
-commit
+コンフリクト練習
+conflict
